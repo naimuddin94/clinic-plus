@@ -47,7 +47,7 @@ const loginPage = () => {
               height={16}
               className="mr-1"
             />
-            Signin with Google
+            Login with Google
           </Button>
         </CardFooter>
       </Card>
